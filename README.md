@@ -8,6 +8,7 @@ This is the Power BI dashboard created from my expenses which i have recorded fr
 
 ![image](https://user-images.githubusercontent.com/52042305/183253747-7eaf81aa-806e-4c4c-8331-bf7f84d2b342.png)
 
+![image](https://user-images.githubusercontent.com/52042305/183253810-e8a8781e-ed5b-4f76-9e36-941aece55505.png)
 
 I have learnt Power BI from the Youtube channel  https://www.youtube.com/c/codebasics. Thank you Hemanand and Dhavan
 
